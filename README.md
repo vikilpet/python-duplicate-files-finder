@@ -1,4 +1,4 @@
-# Python Duplication Files Finder Script
+# Python Duplication Files Finder
 
 ### Features
 - Search by size
@@ -8,6 +8,7 @@
 
 ### Prerequisites
 Windows (MessageBox)
+
 Python > 3.6
 
 ### \*\*\*
