@@ -5,10 +5,9 @@
 - Search by hash of first n percent of file
 - Search by hash of full file
 - Hash algorythm: crc32
-- Show progress
 
 ### Prerequisites
-Windows (or remove messageboxes)
+Windows (messageboxe)
 Python > 3.6
 
 ### \*\*\*
