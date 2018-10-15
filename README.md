@@ -2,12 +2,12 @@
 
 ### Features
 - Search by size
-- Search by hash of first n percent of file
+- Search by hash of first *n* percents of file
 - Search by hash of full file
 - Hash algorythm: crc32
 
 ### Prerequisites
-Windows (messageboxe)
+Windows (MessageBox)
 Python > 3.6
 
 ### \*\*\*
