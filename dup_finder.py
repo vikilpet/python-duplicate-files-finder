@@ -1,7 +1,7 @@
 from pyperclip import paste
 from sys import argv
 import os
-from zlib import crc32 as hashalg
+from zlib import crc32
 from pathlib import Path, PurePath
 import ctypes
 MessageBox = ctypes.windll.user32.MessageBoxW
@@ -73,6 +73,7 @@ def main():
 		# We already have duplicates
 		dups_final = dups
 	elif alg == 2:
+		print('Now compare hashes')
 		# First HASH_SIZE_PERCENT of files
 		widgets = ['Processed: ', Counter(), ' files (', Timer(), ')']
 		pbar = ProgressBar(widgets=widgets)
