@@ -9,7 +9,7 @@
 ### Prerequisites
 Windows (MessageBox)
 
-Python > 3.6
+Python 3.6
 
 ### \*\*\*
 Feel free to ask questions or correct my spelling mistakes.
